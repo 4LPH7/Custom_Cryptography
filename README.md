@@ -54,6 +54,10 @@ This project is licensed under the MIT License. Feel free to use and modify the 
 
 ## Author
 
+
+- GitHub: [@4LPH7](https://github.com/4LPH7)
+
+
 Feel free to reach out for support or feedback!
 
 
