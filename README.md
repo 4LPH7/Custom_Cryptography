@@ -69,4 +69,10 @@ This project is licensed under the MIT License. Feel free to use and modify the 
 
 Feel free to reach out for support or feedback!
 
+### Show your support
+
+Give a ⭐ if you like this website!
+
+<a href="https://buymeacoffee.com/arulartadg" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" height= "60px" width= "217px" ></a>
+
 
