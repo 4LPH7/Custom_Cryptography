@@ -35,7 +35,16 @@ This application provides a graphical user interface (GUI) for encrypting and de
 2. **Key**: Provide an integer key in the designated field.
 3. **Encrypt/Decrypt**: Click the corresponding button to transform the text.
 4. **View Results**: The output will appear in the result box.
+---
 
+## Screenshots
+
+<div style="display: flex;">
+  <img src="https://github.com/user-attachments/assets/f16f0a8c-9721-4e2c-8019-a31ac4ac85c1" alt="Screenshot 1" width="300" style="margin-right: 10px;">
+  <img src="https://github.com/user-attachments/assets/d998c01e-90d2-41b0-8993-0ae125d2a07e" alt="Screenshot 2" width="300">
+</div>
+
+---
 ### Example
 
 #### Encryption
