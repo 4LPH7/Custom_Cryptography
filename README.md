@@ -41,7 +41,7 @@ This application provides a graphical user interface (GUI) for encrypting and de
 
 <div style="display: flex;">
   <img src="https://github.com/user-attachments/assets/f16f0a8c-9721-4e2c-8019-a31ac4ac85c1" alt="Screenshot 1" width="300" style="margin-right: 10px;">
-  <img src="https://github.com/user-attachments/assets/d998c01e-90d2-41b0-8993-0ae125d2a07e" alt="Screenshot 2" width="300">
+  <img src="https://github.com/user-attachments/assets/4d76026e-473c-4836-8910-a85ae8e2ecea" alt="Screenshot 2" width="300">
 </div>
 
 ---
